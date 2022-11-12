@@ -1,0 +1,52 @@
+.panel{
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    background: #DCF884;
+    border-radius: 10px;
+}
+.text-center{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+table{ 
+
+    width: 100%;}
+table,tr,td
+{
+    border: 3px solid tan;
+    font-size: 20px;
+}
+.btn{
+ background: #49F81A;
+ color: black;
+ padding: 10px 20px; 
+display: inline-block;
+ text-decoration: none;
+ font-family: tahoma;
+ border: 2px solid tan;
+ font-size: 20px;
+}
+
+ body{
+    background: #3494E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+ tr{
+font-family: tahoma;
+text-align: center;
+ }
+ label{
+    font-family: tahoma;
+    font-size: 20px;
+ }
+ input{
+    max-width: 800px;
+   font-size: 20px;
+ }
+ .fa-solid .fa-sack-dollar{
+    font-size: 20px;
+ }
